@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <regexp.h>
+#include "regexp.h"
 #include "regmagic.h"
 
 /*
