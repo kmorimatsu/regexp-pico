@@ -2,7 +2,7 @@
 regexp-pico
 
 ## about regexp-pico
-FZ/KM midi is a 1 chip PC for running Fuzix.
+regexp-pico is a code using regular expression in Raspberry Pi Pico.
 
 ## how to compile
 cmake and make. The pico-sdk (ver 1.4 is confirmed for building) with tinyusb submodule is required.
